@@ -34,7 +34,7 @@ fun HomeScreen() {
         ) {
             Text(text = "bienvenido")
             Button(onClick = { /* acction futere */}) {
-                Text("Presoname")
+                Text("Presioname")
             }
             Image(
                 painter = painterResource(id = R.drawable.logo),
